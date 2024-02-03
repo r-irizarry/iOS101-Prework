@@ -30,11 +30,12 @@ Movie Database Integration - Letterboxd integrates with a vast movie database, a
 Apple Wallet:
 NFC Integration - Apple Wallet supports the use of Near Field Communication (NFC) for contactless payments, boarding passes, and more. Implementing NFC functionality requires a robust set of APIs and security measures.
 
-
+App Improvement: Nintendo Switch Online
+To enhance the social experience for Nintendo Switch Online users, a significant improvement could be made to the mobile app by introducing robust messaging and voice party chat features. This update aims to foster better communication and connection between players, even when they are not actively engaged in gaming sessions. Implementing a user-friendly messaging system would allow friends to stay in touch, share updates, and coordinate gaming plans seamlessly. Additionally, the integration of voice party chat functionality would enable users to create virtual hangout spaces, facilitating casual conversations and enhancing the overall camaraderie among players. By focusing on these social features, Nintendo can create a more immersive and interconnected community, encouraging players to engage and interact beyond the confines of specific game sessions, ultimately enriching the Nintendo Switch Online experience.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. - None
 
 ## License
 
