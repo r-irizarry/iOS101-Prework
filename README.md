@@ -13,6 +13,17 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/e4759a48931f47898467614e8e7444e1">
+      <p>Simulator - iPhone 15 Pro - 3 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e4759a48931f47898467614e8e7444e1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e4759a48931f47898467614e8e7444e1-with-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 
 Telegram:
@@ -32,7 +43,7 @@ Describe any challenges encountered while building the app. - None
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [ricardo I. Irizarry Negrón]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
